@@ -1,0 +1,7 @@
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfout
+.terraform/
+.terraform.tfstate.d/
+
